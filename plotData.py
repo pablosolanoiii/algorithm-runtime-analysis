@@ -1,5 +1,4 @@
-#Python script to plot data from CSCI 311 project 1
-#pyinstaller -F plotData.py
+#Written by Kun Tian 
 
 import numpy as np
 import matplotlib.pyplot as plt
