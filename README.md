@@ -26,7 +26,7 @@ I implemented the C++ benchmarking system for this project, including:
 
 ## Attribution 
 
-The Python plotting scripe used to visualized the runtime data was provided by Kun Tian and is included for visualization purposes.  The benchmarking sysytem and runtime generation were implemented by me.  
+The Python plotting script used to visualized the runtime data was provided by Kun Tian and is included for visualization purposes.  The benchmarking sysytem and runtime generation were implemented by me.  
 
 ## Technologies Used 
 
